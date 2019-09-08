@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="biru">#3B2A96</color>
+    <color name="baxkground">#fcfcfc</color>
+    <color name="graylight">#ededed</color>
+    <color name="pendidikan">#FFC107</color>
+    <color name="jobs">#009688</color>
+    <color name="org">#3F51B5</color>
+    <color name="awards">#673AB7</color>
+    <color name="skill">#FF5722</color>
+    <color name="abu">#CACACA</color>
+    <color name="black">#000000</color>
+    <color name="redfoto">#f73939</color>
+    <color name="blue">#2196f3</color>
+
+</resources>
